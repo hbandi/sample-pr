@@ -15,7 +15,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <java.version>11</java.version>
-        <jsonbind.version>2.9.4</jsonbind.version>
+        <jsonbind.version>2.12.7.1</jsonbind.version>
     </properties>
 
     <dependencies>
